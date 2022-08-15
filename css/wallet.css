@@ -1,0 +1,21 @@
+.side1 {
+  background-image: url("../img/side1.png");
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 663px;
+ }
+.Connect{
+  font-weight: bold;
+  font-size: 50px;
+}
+.c1{
+color: #5a5a5a;
+}
+.wal{
+  border: 1px solid #5a5a5a;
+  border-radius: 5pt;
+}
+h3{
+  font-weight: bolder;
+}

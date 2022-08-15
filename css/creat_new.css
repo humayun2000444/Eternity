@@ -1,0 +1,48 @@
+.bg {
+  background-image: url("../img/creatbg.png");
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+.fill {
+  height: 80px; }
+.fills {
+  height: 60px; }
+.main{
+  width: 50%;
+  background-color: #ffff;
+  margin: auto;
+  border-top: 5px solid #600bb0;
+}
+.head{
+  text-transform: uppercase;
+  color: #600bb0;
+  text-align: center;
+  font-weight: bold;
+}
+.name{
+  width: 90%;
+  padding-left: 15px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  border-radius: 3pt;
+  border: 1px solid #600bb0;
+}
+.namee{
+  width: 90%;
+  height: 250px;
+  padding-left: 15px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  border-radius: 3pt;
+  border: 1px solid #600bb0;
+}
+.btn{
+  background-color: #600bb0;
+  width: 90%;
+  border-radius: 5pt;
+  color: #ffff;
+  font-weight: 500;
+  font-size: 20px;

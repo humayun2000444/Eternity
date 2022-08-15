@@ -1,0 +1,36 @@
+.bg {
+  background-image: url("../img/creatbg.png");
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+.fill {
+  height: 80px; }
+.fills {
+  height: 60px; }
+.main{
+  width: 60%;
+  background-color: #ffff;
+  height: 500px;
+  margin: auto;
+  border-top: 5px solid #600bb0;
+}
+.head{
+  text-transform: uppercase;
+  color: #600bb0;
+  text-align: center;
+  font-weight: bold;
+}
+.pp{
+  text-align: center;
+  font-weight: bold;
+  font-size: 15px;
+}
+.into{
+  width: 90%;
+  margin: auto;
+  border: 0.5px solid #600bb0;
+  border-radius: 5pt;
+}
